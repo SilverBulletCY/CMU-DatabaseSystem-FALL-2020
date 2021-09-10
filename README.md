@@ -6,6 +6,8 @@ Other courses：https://gradebuddy.com/department/75678/
 
 Some useful websites：
 
+https://zhuanlan.zhihu.com/database-aplan
+
 http://coding-geek.com/how-databases-work/
 
 https://huili.github.io/sqlite/system.html
